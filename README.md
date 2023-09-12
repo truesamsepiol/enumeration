@@ -10,6 +10,6 @@ g++ programme.cpp
 - Le dernier et la taille des mots que l'on doit former 
 
 # Test
-Pour le test, une fois les fichier telechargés et le compilateur installer en supposant que vous etes dans un environnement linux
+Pour le test, une fois les fichier telechargés et le compilateur installé en supposant que vous etes dans un environnement linux
 - Entrez simplement la commande -> g++ programme.cpp && /bin/sh script.sh
 
